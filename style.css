@@ -1,0 +1,33 @@
+body {
+    font-family: 'Cinzel', serif;
+    background-color: cyan;
+}
+
+.header_div {
+    background-color: white;
+    color: red;
+}
+
+.header_div p {
+    color: grey;
+    font-family: 'Allerta Stencil', sans-serif;
+    letter-spacing: 2;
+}
+
+button {
+    margin-top: 30px;
+    width: 130px;
+    font-size: 20px !important;
+}
+
+#footer {
+    background-color: white;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 2;
+    text-shadow: 2px 2px 2px grey;
+    font-family: 'Are You Serious', cursive;
+    font-size: 20px;
+}
